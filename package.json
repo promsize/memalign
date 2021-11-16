@@ -1,0 +1,13 @@
+{
+  "name": "ptralign",
+  "version": "master",
+  "repo": "promovicz/ptralign",
+  "desciption": "Standard-like function for pointer alignment",
+  "license": "Unlicense",
+  "keywords": [
+    "align", "memory", "pointer"
+  ],
+  "src": [
+    "ptralign.h"
+  ]
+}
