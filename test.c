@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "ptralign.h"
+#include "memalign.h"
 
 int main(void) {
   void *p;

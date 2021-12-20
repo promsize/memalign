@@ -1,3 +1,3 @@
-## Standard-like function for pointer alignment
+## Standard-like functions for pointer alignment
 
 

@@ -1,5 +1,5 @@
 
-NAME=ptralign
+NAME=memalign
 
 include package.mk
 

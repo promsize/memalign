@@ -1,11 +1,11 @@
 /*
- * ptralign - Standard-like function for pointer alignment
+ * memalign - Standard-like functions for pointer alignment
  *
  * Copyright (C) 2020-2021 Ingo Albrecht <copyright@promovicz.org>
  */
 
-#ifndef PTRALIGN_H
-#define PTRALIGN_H
+#ifndef MEMALIGN_H
+#define MEMALIGN_H
 
 #include <stdint.h>
 
@@ -24,4 +24,4 @@ static inline void *ptralign(size_t align, size_t size, void **ptr, size_t space
 	}
 }
 
-#endif /* !PTRALIGN_H */
+#endif /* !MEMALIGN_H */
